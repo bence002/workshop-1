@@ -99,9 +99,16 @@ nav .logo {
     margin-left: 0;
 }
 
-/* INTRO SECTION */
+/* INTRO GRID */
 
 .two-column {
     display: grid;
     grid-template-columns: 1fr 1fr;
+}
+
+/* SUMMARY GRID */
+
+.summary .wrap {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
 }
