@@ -1,3 +1,5 @@
+/* TEXT STYLES */
+
 body {
     font-family: Lato, sans-serif;
     font-weight: 400;
@@ -46,6 +48,8 @@ ul {
     padding-right: 32px;
 }
 
+/* PAGE STYLES */
+
 .page-title {
     text-align: left;
 }
@@ -70,3 +74,29 @@ ul {
 p.card-body {
     margin: 0px;
 }
+
+/* WRAPPING */
+
+.wrap {
+    max-width: 1140px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navigation {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 50px;
+}
+
+.wrap a {
+    margin-left: 4px;
+    padding: 13px 22.5px;
+}
+
+nav .logo {
+    margin-right: auto;
+    margin-left: 0;
+}
+
+/* INTRO SECTION */
