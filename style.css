@@ -139,3 +139,14 @@ nav .logo {
 .navigation-contact:hover {
     background-color: #5f35d4;
 }
+
+.navigation .logo {
+    width: 145px;
+    height: 28px;
+    padding: 0;
+}
+
+svg {
+    width: 100%;
+    height: 100%;
+}
