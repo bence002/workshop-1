@@ -138,6 +138,7 @@ nav .logo {
 
 .navigation-contact:hover {
     background-color: #5f35d4;
+    text-decoration: none;
 }
 
 .navigation .logo {
